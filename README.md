@@ -26,7 +26,7 @@ Use Python to create a directory for these RSS files. Use Python to check for ex
 
 Then parse. Vice's parser just needed a date format change from The Messenger's.
 
-Then I found out Vice's data files were too big for Google Sheets to open; I tried breaking them into five-year chunks and *that* went badly; the late 2010s contained twice as much data as the other dozen years combined. I ultimately settled on single-year chunks but built an author index. You can see disabled code and the final code in those scripts.
+Then I found out Vice's data files were too big for Google Sheets to open; I tried breaking them into five-year chunks and *that* went badly; the late 2010s contained twice as much data as the other dozen years combined. I ultimately settled on single-year chunks but built an author index. You can see disabled code and the final code in those scripts. Github's previews simply don't show the disabled code but if you open them in Jupyter you will see them with a different indent.
 
 ## But why did you ...
 
