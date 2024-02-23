@@ -1,0 +1,4 @@
+jupyter
+pyquery
+requests
+tqdm
